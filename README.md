@@ -24,6 +24,8 @@ materials can be sourced from most lowes stores in the united states
   | 1-1/2 x 1-1/2	| 72 |	1 
   | 16 x 3/4 |	72 |	2 |
   
+  (actual measurements, not nominal)
+  
   look for "edge glued boards" for the desktop. alternatively you can use plywood, which is cheaper but more difficult to cut and sand with hand tools. 
   
 - wood screws
