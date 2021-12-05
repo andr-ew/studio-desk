@@ -43,7 +43,7 @@ while a miter saw & table saw will make the most accurate cuts, I was able to bu
 - ryoba (japanese hand saw)
 - low saw horses (DIY)
 - clamps (4)
-- screw driver (+ impact driver)
+- power drill (+ impact driver)
 - countersink or countersink bit
 - sand paper block
 
