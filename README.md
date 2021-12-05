@@ -31,3 +31,19 @@ materials can be sourced from most lowes stores in the united states
   - #10 x 2"
 
 - sand paper
+
+# tools
+
+while a miter saw & table saw will make the most accurate cuts, I was able to build this piece fairly easily with a small selection of hand tools.
+
+- tape measure
+- square
+- pencil
+- woodworking protractor
+- ryoba (japanese hand saw)
+- clamps
+- screw driver (+ impact driver)
+- countersink or countersink bit
+- sand paper block
+
+the angle cuts are a little tricky to get right with the ryoba, so be sure to practice measuring and cutting angles before attempting this piece. you're able to get away without great accuracy due to the flexibility of the wood.
