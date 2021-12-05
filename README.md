@@ -41,6 +41,7 @@ while a miter saw & table saw will make the most accurate cuts, I was able to bu
 - pencil
 - woodworking protractor
 - ryoba (japanese hand saw)
+- low saw horses (DIY)
 - clamps
 - screw driver (+ impact driver)
 - countersink or countersink bit
