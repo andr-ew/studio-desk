@@ -8,6 +8,10 @@
 
 ![design for a solid pine desk](studio-desk.png)
 
+I'd reccomend attatching all cross-beams to the desktop first, then attatching the legs. for the legs, I attatched the smallest peice that goes under the beam first, then clamped a leg to that piece and drilled it in. I added the longer beam connecting the legs last
+
+note that the legs are **very** short (about 24"). this is my preffered height for musical instruments, but you may want to make yours taller.
+
 # materials
 
 materials can be sourced from most lowes stores in the united states
