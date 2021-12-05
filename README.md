@@ -21,3 +21,5 @@ materials can be sourced from most lowes stores in the united states
 - wood screws
   - #10 x 2-1/2"
   - #10 x 2"
+
+- sand paper
