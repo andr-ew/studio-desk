@@ -4,6 +4,10 @@
 ![photo of a solid pine desk](IMG_5313.jpg)
 ![photo of a solid pine desk](IMG_5477.jpg)
 
+# construction
+
+![design for a solid pine desk](studio-desk.png)
+
 # materials
 
 materials can be sourced from most lowes stores in the united states
