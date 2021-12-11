@@ -12,6 +12,10 @@ I'd reccomend attatching all cross-beams to the desktop first, then attatching t
 
 note that the legs are **very** short (about 24"). this is my preffered height for musical instruments, but you may want to make yours taller.
 
+the slit in the desktop isn't just for appearences - you can run cables up through the middle of the desk and they'll be pinched slightly between the beam and the desktop to keep them in place.
+
+you can also easily add a slim shelf / cubby hole attatched under the desktop beams for storing keyboards or laptops - or even add sliding drawers if you have the proper tools.
+
 # materials
 
 materials can be sourced from most lowes stores in the united states
